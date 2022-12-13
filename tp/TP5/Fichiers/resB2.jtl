@@ -1,0 +1,30 @@
+1669048780187,66,AddPerson,201,Created,Random-Workload 1-1,text,true,1121,1,1,66
+1669048780420,35,DeletePerson,204,No Content,Random-Workload 1-1,text,true,2052,1,1,0
+1669048780767,6,GetObservationOfPatient,200,OK,Random-Workload 1-1,text,true,206,1,1,6
+1669048781307,40,AddPerson,201,Created,Random-Workload 1-1,text,true,1121,1,1,40
+1669048781755,34,DeletePerson,204,No Content,Random-Workload 1-1,text,true,2052,1,1,0
+1669048782259,34,GetConceptByName,200,OK,Random-Workload 1-1,text,true,404,2,2,34
+1669048782538,38,AddPerson,201,Created,Random-Workload 1-2,text,true,1121,2,2,38
+1669048782622,48,AddPerson,201,Created,Random-Workload 1-1,text,true,1121,2,2,48
+1669048782773,42,DeletePerson,204,No Content,Random-Workload 1-2,text,true,2052,2,2,0
+1669048782992,22,DeletePerson,204,No Content,Random-Workload 1-1,text,true,2052,2,2,0
+1669048783101,59,EditPersonStatic,200,OK,Random-Workload 1-2,text,true,1020,2,2,59
+1669048783278,61,EditPersonStatic,200,OK,Random-Workload 1-1,text,true,1020,2,2,61
+1669048783621,43,AddPerson,201,Created,Random-Workload 1-2,text,true,1121,2,2,43
+1669048783719,37,AddPerson,201,Created,Random-Workload 1-1,text,true,1121,2,2,37
+1669048783983,30,DeletePerson,204,No Content,Random-Workload 1-1,text,true,2052,2,2,0
+1669048784097,25,DeletePerson,204,No Content,Random-Workload 1-2,text,true,2052,2,2,0
+1669048784231,155,GetEncounterByType ,200,OK,Random-Workload 1-1,text,true,411,2,2,155
+1669048784475,15,GetEncounterOfPatient,200,OK,Random-Workload 1-2,text,true,4875,2,2,15
+1669048784830,51,AddPerson,201,Created,Random-Workload 1-1,text,true,1121,2,2,51
+1669048784863,42,AddPerson,201,Created,Random-Workload 1-2,text,true,1121,2,2,42
+1669048785286,26,DeletePerson,204,No Content,Random-Workload 1-1,text,true,2052,2,2,0
+1669048785430,25,DeletePerson,204,No Content,Random-Workload 1-2,text,true,2052,2,2,0
+1669048785681,7,GetEncounterByType ,200,OK,Random-Workload 1-1,text,true,413,2,2,7
+1669048785832,29,GetConceptByName,200,OK,Random-Workload 1-2,text,true,1057,1,1,29
+1669048786101,36,AddPerson,201,Created,Random-Workload 1-2,text,true,1121,1,1,36
+1669048786386,24,DeletePerson,204,No Content,Random-Workload 1-2,text,true,2052,1,1,0
+1669048786661,6,GetObservationOfPatient,200,OK,Random-Workload 1-2,text,true,206,1,1,6
+1669048786841,38,AddPerson,201,Created,Random-Workload 1-2,text,true,1121,1,1,38
+1669048787076,29,DeletePerson,204,No Content,Random-Workload 1-2,text,true,2052,1,1,0
+1669048787372,14,GetEncounterOfPatient,200,OK,Random-Workload 1-2,text,true,2753,1,1,14
